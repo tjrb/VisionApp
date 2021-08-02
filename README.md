@@ -1,5 +1,5 @@
 # VisionApp
-This app uses deeplearning and a web cam for identifing objects
+This app uses deeplearning and the phone camera for identifing objects
 The neural network is the pretrained yolov3 with 80 difrent classes
 more details about the net on https://pjreddie.com/ 
 
